@@ -60,6 +60,8 @@ describe("About Mutability", function () {
     };
 
     expect(aPerson.getFullName()).toBe("Andrews, Penny");
+
+    // study this example in external js file
   });
 
 });
